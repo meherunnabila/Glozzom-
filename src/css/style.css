@@ -1,0 +1,91 @@
+.carousel-item{
+    height: 600px;
+}
+
+.carousel-img-1{
+    background: url(../img/sea.jpeg);
+    background-size: cover;
+}
+.carousel-img-2{
+    background: url(../img/bird.jpeg);
+    background-size: cover;
+}
+.carousel-img-3{
+    background: url(../img/blue.jpeg);
+    background-size: cover;
+}
+
+.homeicon {
+    margin-bottom: 10px;
+    font-size: 35px;}
+
+#getstarted{
+    background: url(../img/gets.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   min-height: 250px;
+   opacity: 0.8;
+}
+
+.boxicon{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#home-vedio{
+
+    background: url(../img/coding.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    min-height: 250px;
+}
+
+.homevedioicon{
+    font-size: 70px;
+    background-color: red;
+    color: seashell;
+    margin-bottom: 10px;}
+ .gimg{
+   height: 340px;
+   width: 350px;
+}
+#copyright{
+    background-color: black;
+    color: white;
+}
+#aboutus-header{
+    background-image: url(../img/sea.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400;
+    opacity: 0.7;
+}
+#service-header{
+    background-image: url(../img/bird.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400;
+   
+
+}
+
+
+#blog-header{
+    background-image: url(../img/tree.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400;
+    opacity: 0.8;
+   
+}
+@media(min-width: 768){
+
+    .pcimg{
+        margin-top: 50px;
+    }
+}
